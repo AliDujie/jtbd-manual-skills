@@ -31,7 +31,7 @@ cp -R 05-jtbd-sampling-design /path/to/skills/jtbd-sampling-design
 
 目录名带编号是为了跟连载篇目一一对应，方便查找；`name` 保持原名是因为 Agent 按它识别和调用。
 
-随连载放开，部分 skill 还会随包附带 `scripts/`、`references/` 等文件（如格式校验器、字段规范），用法写在各自 `SKILL.md` 里。
+后续放开的 skill 会随包附带 `scripts/`、`references/` 等文件（如格式校验器、字段规范），用法写在各自 `SKILL.md` 里。
 
 ## 版本与打磨
 
