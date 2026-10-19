@@ -8,13 +8,13 @@
 |------|---------|---------|-------|------|
 | 01 | 我为什么写这个 JTBD 连载（序言） | 总入口 | `jtbd-manual` | 已放开 |
 | 02 | 什么样的问题 JTBD 答不了 | 关卡 0 | `jtbd-boundary-check` | 已放开 |
-| 03 | 业务方一句话，怎么拆成能验证的假设（上） | 关卡 1 | `jtbd-hypothesis-decompose` | 已放开 |
-| 04 | 假设拆完，怎么验证它立得住（下） | 关卡 1 | `jtbd-hypothesis-decompose`（与 03 共用） | 已放开 |
+| 03 | 业务方一句话，怎么拆成能验证的假设 | 关卡 1 | `jtbd-hypothesis-decompose` | 已放开 |
+| 04 | 拆完假设，怎么跟业务方对齐 | 关卡 1 | `jtbd-hypothesis-decompose`（与 03 共用） | 已放开 |
 | 05 | 样本选不对，后面全白做 | 关卡 2 | `jtbd-sampling-design` | 已放开 |
 | 06 | 提纲写不深，访谈就只剩闲聊 | 关卡 3 | `jtbd-interview-guide` | 已放开 |
-| 07 | 同一句"还行吧"，是客套还是认同 | 关卡 4 | `jtbd-interview-execution` | 待放出 |
-| 08 | 录音转文字，怎么用才不白录 | 关卡 5 | `jtbd-transcript-refine` | 待放出 |
-| 09 | 碎片访谈怎么变成 35 列场景库 | 关卡 6 上 | `jtbd-scene-extract` | 待放出 |
+| 07 | 同一句"还行吧"，是客套还是认同 | 关卡 4 | `jtbd-interview-execution` | 已放开 |
+| 08 | 录音转文字，怎么用才不白录 | 关卡 5 | `jtbd-transcript-refine` | 已放开 |
+| 09 | 访谈转写稿怎么变成 35 列场景库 | 关卡 6 上 | `jtbd-scene-extract` | 待放出 |
 | 10 | 场景库怎么富化出可算的机会 | 关卡 6 下 | `scenario-library` | 待放出 |
 | 11 | L1/L2 分层怎么落到 PM 能立项 | 关卡 7 | `jtbd-hierarchy-cluster` | 待放出 |
 | 12 | 四力算完然后呢 | 关卡 8 | `jtbd-forces-analysis` | 待放出 |

@@ -6,7 +6,7 @@
 
 ## 现在有哪些
 
-已放开 5 件，覆盖连载第 01–06 篇（手册关卡 0–3）：
+已放开 7 件，覆盖连载第 01–08 篇（手册关卡 0–5）：
 
 | 目录 | 对应篇目 | 关卡 | skill | 干什么用 |
 |------|---------|------|-------|---------|
@@ -15,8 +15,10 @@
 | `03-04-jtbd-hypothesis-decompose` | 03、04 | 关卡 1 | jtbd-hypothesis-decompose | 把业务方一句话拆成 6 个可证伪假设 |
 | `05-jtbd-sampling-design` | 05 | 关卡 2 | jtbd-sampling-design | 访谁、访多少、怎么招、翻车了怎么补 |
 | `06-jtbd-interview-guide` | 06 | 关卡 3 | jtbd-interview-guide | Switch/ODI/Churn 三型访谈提纲生成 |
+| `07-jtbd-interview-execution` | 07 | 关卡 4 | jtbd-interview-execution | 六信号识别、四类跑偏补救、十分钟复盘 |
+| `08-jtbd-transcript-refine` | 08 | 关卡 5 | jtbd-transcript-refine | 转写纠错、关键原话评分与筛选 |
 
-第 07–20 篇对应的 14 件随连载节奏逐步放开，对应表见 [docs/skill-手册对应表.md](docs/skill-手册对应表.md)。
+第 09–20 篇对应的 12 件随连载节奏逐步放开，对应表见 [docs/skill-手册对应表.md](docs/skill-手册对应表.md)。
 
 ## 怎么用
 
