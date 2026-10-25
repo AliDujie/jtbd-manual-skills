@@ -1,6 +1,6 @@
 # skill ↔ 手册关卡 ↔ 连载篇目 对应表
 
-《JTBD 实战手册》共 17 个关卡（0–16），公众号连载按关卡拆篇，每篇配一件 skill（03、04 两篇共用），全套 19 件。
+《JTBD 实战手册》共 17 个关卡（0–16），公众号连载按关卡拆篇，每篇配一件 skill（03、04 两篇共用；关卡 6 拆成上下两件），全套 19 件。
 
 ## 总表
 
@@ -12,12 +12,12 @@
 | 04 | 拆完假设，怎么跟业务方对齐 | 关卡 1 | `jtbd-hypothesis-decompose`（与 03 共用） | 已放开 |
 | 05 | 样本选不对，后面全白做 | 关卡 2 | `jtbd-sampling-design` | 已放开 |
 | 06 | 提纲写不深，访谈就只剩闲聊 | 关卡 3 | `jtbd-interview-guide` | 已放开 |
-| 07 | 同一句"还行吧"，是客套还是认同 | 关卡 4 | `jtbd-interview-execution` | 已放开 |
+| 07 | 同一句“还行吧”，是客套还是认同 | 关卡 4 | `jtbd-interview-execution` | 已放开 |
 | 08 | 录音转文字，怎么用才不白录 | 关卡 5 | `jtbd-transcript-refine` | 已放开 |
-| 09 | 访谈转写稿怎么变成 35 列场景库 | 关卡 6 上 | `jtbd-scene-extract` | 待放出 |
-| 10 | 场景库怎么富化出可算的机会 | 关卡 6 下 | `scenario-library` | 待放出 |
-| 11 | L1/L2 分层怎么落到 PM 能立项 | 关卡 7 | `jtbd-hierarchy-cluster` | 待放出 |
-| 12 | 四力算完然后呢 | 关卡 8 | `jtbd-forces-analysis` | 待放出 |
+| 09 | 访谈转写稿怎么变成 35 列场景库 | 关卡 6 上 | `jtbd-scene-extract` | 已放开 |
+| 10 | 场景库怎么富化出可算的机会 | 关卡 6 下 | `scenario-library` | 已放开 |
+| 11 | L1/L2 分层怎么落到 PM 能立项 | 关卡 7 | `jtbd-hierarchy-cluster` | 已放开 |
+| 12 | 四力算完然后呢 | 关卡 8 | `jtbd-forces-analysis` | 已放开 |
 | 13 | 怎么区分洞察和废话 | 关卡 9 | `jtbd-insight-quality` | 待放出 |
 | 14 | 创新信号藏在哪里 | 关卡 10 | `jtbd-innovation-signal` | 待放出 |
 | 15 | 从补偿行为到新产品 | 关卡 11 | `jtbd-compensation-productize` | 待放出 |
@@ -29,6 +29,6 @@
 
 ## 说明
 
-- **编号即篇目**：仓里目录名带篇号前缀（如 `05-jtbd-sampling-design`），方便按文章查找；安装时去前缀，使目录名与 frontmatter `name` 一致。
-- **每件自足**：任何一件 skill 都不依赖其他 skill 目录，单独复制即可使用；后续放开的 skill 会随包附带校验脚本、字段规范等文件，用法写在各自 SKILL.md 里。
-- **放开节奏**："待放出"的 skill 已在本仓外打磨，随对应篇目发布时入库；本篇目表随每次放开更新。
+- **编号即篇目**：仓里目录名带篇号前缀（如 `05-jtbd-sampling-design`、`10b-scenario-library`），方便按文章查找；安装时去前缀（含 `10b-` 这类写法），使目录名与 frontmatter `name` 一致。
+- **每件自足**：任何一件 skill 都不依赖其他 skill 目录，单独复制即可使用；随包可能附带校验脚本、字段规范或理论字典，用法写在各自的 `SKILL.md` 或 `README.md` 里。
+- **放开节奏**：“待放出”的 skill 已在本仓外打磨，随对应篇目发布时入库；本篇目表随每次放开更新。
