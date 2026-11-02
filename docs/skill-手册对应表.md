@@ -18,10 +18,10 @@
 | 10 | 场景库怎么富化出可算的机会 | 关卡 6 下 | `scenario-library` | 已放开 |
 | 11 | L1/L2 分层怎么落到 PM 能立项 | 关卡 7 | `jtbd-hierarchy-cluster` | 已放开 |
 | 12 | 四力算完然后呢 | 关卡 8 | `jtbd-forces-analysis` | 已放开 |
-| 13 | 怎么区分洞察和废话 | 关卡 9 | `jtbd-insight-quality` | 待放出 |
-| 14 | 创新信号藏在哪里 | 关卡 10 | `jtbd-innovation-signal` | 待放出 |
-| 15 | 从补偿行为到新产品 | 关卡 11 | `jtbd-compensation-productize` | 待放出 |
-| 16 | 机会怎么变成能验证的实验 | 关卡 12 | `jtbd-ost-loop` | 待放出 |
+| 13 | 这句话，是洞察还是废话 | 关卡 9 | `jtbd-insight-quality` | 已放开 |
+| 14 | 创新信号，藏在用户的哪些做法里 | 关卡 10 | `jtbd-innovation-signal` | 已放开 |
+| 15 | 用户自己凑合出来的办法，怎么变成产品 | 关卡 11 | `jtbd-compensation-productize` | 已放开 |
+| 16 | 先别立项，先做个能验证的实验 | 关卡 12 | `jtbd-ost-loop` | 已放开 |
 | 17 | 洞察怎么变行动：三类隐形障碍 | 关卡 13 | `jtbd-insight-adoption` | 待放出 |
 | 18 | 结论撞上业务约束怎么谈 | 关卡 14 | `jtbd-constraint-dialog` | 待放出 |
 | 19 | AI 作坊分工表：哪一步交给 AI | 关卡 15 | `jtbd-ai-forge` | 待放出 |
