@@ -22,13 +22,13 @@
 | 14 | 创新信号，藏在用户的哪些做法里 | 关卡 10 | `jtbd-innovation-signal` | 已放开 |
 | 15 | 用户自己凑合出来的办法，怎么变成产品 | 关卡 11 | `jtbd-compensation-productize` | 已放开 |
 | 16 | 先别立项，先做个能验证的实验 | 关卡 12 | `jtbd-ost-loop` | 已放开 |
-| 17 | 洞察怎么变行动：三类隐形障碍 | 关卡 13 | `jtbd-insight-adoption` | 待放出 |
-| 18 | 结论撞上业务约束怎么谈 | 关卡 14 | `jtbd-constraint-dialog` | 待放出 |
-| 19 | AI 作坊分工表：哪一步交给 AI | 关卡 15 | `jtbd-ai-forge` | 待放出 |
-| 20 | 24 类踩过的坑与免疫记忆 | 关卡 16 | `jtbd-pitfall-library` | 待放出 |
+| 17 | 结论是对的，为什么推不动 | 关卡 13 | `jtbd-insight-adoption` | 已放开 |
+| 18 | 业务说“做不了”，先分清是哪一种 | 关卡 14 | `jtbd-constraint-dialog` | 已放开 |
+| 19 | 哪一步能交给 AI，先看错了能不能发现 | 关卡 15 | `jtbd-ai-forge` | 已放开 |
+| 20 | 项目卡住了，先查是哪一类坑 | 关卡 16 | `jtbd-pitfall-library` | 已放开 |
 
 ## 说明
 
 - **编号即篇目**：仓里目录名带篇号前缀（如 `05-jtbd-sampling-design`、`10b-scenario-library`），方便按文章查找；安装时去前缀（含 `10b-` 这类写法），使目录名与 frontmatter `name` 一致。
 - **每件自足**：任何一件 skill 都不依赖其他 skill 目录，单独复制即可使用；随包可能附带校验脚本、字段规范或理论字典，用法写在各自的 `SKILL.md` 或 `README.md` 里。
-- **放开节奏**：“待放出”的 skill 已在本仓外打磨，随对应篇目发布时入库；本篇目表随每次放开更新。
+- **放开节奏**：19 件已全部入库，覆盖连载第 01–20 篇；后续修订只更新版本与说明，不再区分待放出。
